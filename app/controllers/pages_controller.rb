@@ -3,4 +3,6 @@ class PagesController < ApplicationController
   end
   def login
   end
+  def registration
+  end
 end
